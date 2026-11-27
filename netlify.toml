@@ -1,0 +1,4 @@
+[build]
+  base = "sufian-portfolio/sufian-portfolio"
+  command = "npm install && npm run build"
+  publish = ".next"
